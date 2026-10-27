@@ -1,0 +1,17 @@
+DarkRaw app icon (darkraw-source.png and every file derived from it in this directory:
+darkraw-1024.png, darkraw.icns, darkraw.ico, hicolor/).
+
+Generated with ChatGPT (OpenAI) from a prompt by the DarkRaw project owner. Under OpenAI's terms
+the output belongs to the user; in some countries a purely AI-generated image may not be protected
+by copyright at all. To the extent the project owner holds any rights in it, they are offered like
+the rest of the project, under either of
+
+  * Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+  * MIT license (https://opensource.org/licenses/MIT)
+
+at your option. No warranty is given that the image does not resemble existing artwork.
+
+photocraft.svg and photocraft-small.svg are the previous PhotoCraft artwork (an engraving-style
+drawing made for PhotoCraft by its owner, then vectorised), under the same licenses.
+
+Regenerate the derived files with packaging/icons.sh.
